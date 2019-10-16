@@ -1,5 +1,18 @@
 # Changelog
 
+### [0.18.1](https://www.github.com/googleapis/google-auth-library-java/compare/v0.18.0...v0.18.1) (2019-10-16)
+
+
+### Documentation
+
+* remove outdated comment on explicit IP address ([#370](https://www.github.com/googleapis/google-auth-library-java/issues/370)) ([71faa5f](https://www.github.com/googleapis/google-auth-library-java/commit/71faa5f6f26ef2f267743248b828d636d99a9d50))
+
+
+### Dependencies
+
+* update appengine-sdk to 1.9.76 ([#366](https://www.github.com/googleapis/google-auth-library-java/issues/366)) ([590883d](https://www.github.com/googleapis/google-auth-library-java/commit/590883d57158275b988b5e6c7f6d608eaa3c08ad))
+* update autovalue packages to v1.7 ([#365](https://www.github.com/googleapis/google-auth-library-java/issues/365)) ([42a1694](https://www.github.com/googleapis/google-auth-library-java/commit/42a169463ab3c36552e2eea605571ee9808f346c))
+
 ### [0.18.0](https://www.github.com/googleapis/google-auth-library-java/compare/v0.17.2...v0.18.0) (2019-10-09)
 
 
